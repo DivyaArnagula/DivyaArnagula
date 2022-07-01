@@ -2,7 +2,7 @@ class Addition
 {
 	public static void main(String args[])
 	{
-	int x=20;
+	int x=220;
 	int y=10;
 	int z1=x+y;
 	int z2=x-y;
